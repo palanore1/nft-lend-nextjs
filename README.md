@@ -1,3 +1,3 @@
-# NextJS NFT Marketplace with TheGraph
+# NextJS NFT Lend with TheGraph
 
 *This repo has been updated for Sepolia over Goerli.*
